@@ -66,10 +66,10 @@ grunt:
 You can also build for all platforms with:
 
     $ grunt build --platforms=all
-    
+
 Ubuntu users can also copy and run this [automatic build and install script](https://github.com/popcorn-team/popcorn-app/wiki/Build-on-Ubuntu-Linux-32-64-bits)
 
-## How to contribute
+## How to contribute [![tip for next commit](http://tip4commit.com/projects/643.svg)](http://tip4commit.com/projects/643)
 
 First, building, testing and reporting bug is highly appreciated. Please include console's output and reproduction step in your bug report.
 If you want to develop, you can look at the issues, especialy the bug and fix them.
